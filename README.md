@@ -18,6 +18,8 @@ BreaKdown is a user screener that scraps a user's Twitter profile and outputs a 
 
 
 - pandas
+- selenium
+- chromedriver
 ## License
 
 
